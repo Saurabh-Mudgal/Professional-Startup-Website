@@ -11,7 +11,7 @@
 
 A Next.js based business website template to provide a responsive and quick-start web presence for startups and enterprises
 
-### View Live here: [www.business-website-webup.netlify.app](https://business-website-webup.netlify.app/)
+### View Live here: [www.business-website-saurabh.netlify.app](https://business-website-saurabh.netlify.app/)
 
 <br>
 <br>
